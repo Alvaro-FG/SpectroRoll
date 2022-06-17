@@ -1,4 +1,4 @@
 # SpectroRoll
-DIY spectrometer for outreach activities
+DIY spectrometer.
 
 Coming up soon: Assembly instructions!!
