@@ -15,3 +15,5 @@ The full instructions on how to build your SpectroRoll can be found in SpectroRo
 Hope you enjoy building the spectrometer and do not hesitate to send any questions/comments to: spectroroll@gmail.com
 
 Thanks a lot and have fun!
+
+Author: Alvaro Fernández Galiana
