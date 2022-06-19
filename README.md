@@ -10,7 +10,7 @@ Material list:
   - Scissors
   - Ruler
 
-The full instructions on how to build your SpectroRoll can be found in SpectroRoll_Assembly_Manual.pdf.
+The full instructions on how to build your SpectroRoll can be found in SpectroRoll_Assembly_Manual_CC_LQ.pdf.
 
 Hope you enjoy building the spectrometer and do not hesitate to send any questions/comments to: spectroroll@gmail.com
 
